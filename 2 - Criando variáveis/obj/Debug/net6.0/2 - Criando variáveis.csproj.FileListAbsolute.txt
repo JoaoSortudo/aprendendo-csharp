@@ -1,0 +1,15 @@
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\bin\Debug\net6.0\2 - Criando variáveis.exe
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\bin\Debug\net6.0\2 - Criando variáveis.deps.json
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\bin\Debug\net6.0\2 - Criando variáveis.runtimeconfig.json
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\bin\Debug\net6.0\2 - Criando variáveis.dll
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\bin\Debug\net6.0\2 - Criando variáveis.pdb
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\obj\Debug\net6.0\2 - Criando variáveis.csproj.AssemblyReference.cache
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\obj\Debug\net6.0\2 - Criando variáveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\obj\Debug\net6.0\2 - Criando variáveis.AssemblyInfoInputs.cache
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\obj\Debug\net6.0\2 - Criando variáveis.AssemblyInfo.cs
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\obj\Debug\net6.0\2 - Criando variáveis.csproj.CoreCompileInputs.cache
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\obj\Debug\net6.0\2 - Criando variáveis.dll
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\obj\Debug\net6.0\refint\2 - Criando variáveis.dll
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\obj\Debug\net6.0\2 - Criando variáveis.pdb
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\obj\Debug\net6.0\2 - Criando variáveis.genruntimeconfig.cache
+C:\Users\lucky\Desktop\TONI DEV\C, C++ e C#\Aprendendo C#\2 - Criando variáveis\obj\Debug\net6.0\ref\2 - Criando variáveis.dll
